@@ -6,8 +6,6 @@
 
 
 
- <p align="center"> <a href="https://github.com/Bad1Boy/Zunamic-Md-Bot"><img src="https://github-profile-trophy.vercel.app/?username=sanuwaofficial&no-bg=true&no-frame=false&theme=algolia"></a></p>
+## License
 
-<p align="center"> <a href="https://github.com/Bad1Boy/Zunamic-Md-Bot"><img  src="http://github-readme-streak-stats.herokuapp.com?user=Zunamic-Bot&theme=github-dark-blue&hide_border=false&background=DDD9DA00&stroke=00AEFF&fire=00AEFF&ring=00AEFF&currStreakNum=00AEFF&currStreakLabel=00AEFF&sideLabels=00AEFF&dates=00AEFF&sideNums=00AEFF"></a></p>
-<p align="center"> <a href="https://github.com/Bad1Boy/Zunamic-Md-Bot"><img src="https://github-readme-stats.vercel.app/api?username=ZUNAMIC-BOT&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF&show_icons=TRUE&icon_color=00AEFF" > </a> </p>
-<p align="center"> <a href="https://github.com/sanuwaofficial"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZUNAMIC-BOT&hide=css,html&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF" > </a> </p>
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjourney-ad%2FMoe-counter.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjourney-ad%2FMoe-counter?ref=badge_large)
