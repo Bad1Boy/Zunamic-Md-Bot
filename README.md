@@ -6,6 +6,17 @@
 
 
 
-## License
+<a href=“”></a>
+Hi there, I am [Yu](https://www.yushi.dev/)
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjourney-ad%2FMoe-counter.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjourney-ad%2FMoe-counter?ref=badge_large)
+2. With the <a href=“”></>
+
+Hi there, I’m <a href=”https://www.yushi.dev/" target=”_blank” rel=”noreferrer”>Yu</a> 👋
+
+3. I am using <a href=“”></a> because I need to align the text to center
+
+<h3 align=”center”>
+
+Hi there, I’m <a href=”https://www.yushi.dev/" target=”_blank” rel=”noreferrer”>Yu</a> 👋
+
+</h3>
