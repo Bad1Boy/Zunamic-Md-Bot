@@ -1,7 +1,7 @@
 # Zunamic-Md-Bot
 - This project is under review
 
-- <h3 align="left">Connect with me:</h3><p>   <a href="https://wa.me/94773585511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="https://wa.me/94773585511" height="30" width="40" /></a>
+- <h3 align="left">Contact me:</h3><p>   <a href="https://wa.me/94773585511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="https://wa.me/94773585511" height="30" width="40" /></a>
 </p>
 
 
